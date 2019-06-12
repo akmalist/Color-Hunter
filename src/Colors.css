@@ -1,0 +1,12 @@
+.Colors {
+  width: 5rem;
+  height: 5rem;
+  margin: 10px;
+  border-radius: 20px;
+}
+
+.Colors-text {
+  text-align: center;
+  padding-top: 40px;
+  color: white;
+}
